@@ -1,2 +1,2 @@
 # Control-Systems
-Documentation of projects performed by me as part of our Control Engineering lab course
+Documentation of projects performed as part of our Control Engineering lab course
